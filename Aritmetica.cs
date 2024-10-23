@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculos
 {
+<<<<<<< Updated upstream
     /// <summary>
     /// Tipo de conversão de temperatura a executar.
     /// </summary>
@@ -15,6 +16,9 @@ namespace Calculos
         CelsiusFahrenheit,
         FahrenheitCelsius
     }
+=======
+
+>>>>>>> Stashed changes
 
 
     internal class Aritmetica
@@ -55,6 +59,11 @@ namespace Calculos
         }
 
 
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
 
 
     }
